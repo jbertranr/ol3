@@ -6,11 +6,11 @@
 			id = "com.phonegap.riscanimal"
 			version = "1.0.0">
 
-    <name>Risc Animal</name>
+    <name>visorSIG Mòbil</name>
 	<gap:splash src="home.jpg" />
 	<preference name="SplashMaintainAspectRatio" value="true" />
     <description> 
-        App per identificar situacions de risc animal
+        Visualitació de capes amb Mòbil
     </description>
 
     <!--author href="http://phonegap.com" email="support@phonegap.com">
